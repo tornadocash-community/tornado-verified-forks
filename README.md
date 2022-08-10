@@ -21,6 +21,10 @@ https://github.com/staccDOTsol/trusted-setup-server
 
 https://github.com/staccDOTsol/fixed-merkle-tree
 
+https://github.com/staccDOTsol/tx-manager
+
+https://github.com/staccDOTsol/torn-token
+
 https://github.com/all-forks/tornado-pool-relayer
 
 https://github.com/all-forks/tornado-cli
