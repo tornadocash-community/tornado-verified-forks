@@ -9,6 +9,8 @@ https://github.com/staccDOTsol/nova-ui-minified
 
 https://github.com/staccDOTsol/docs
 
+https://github.com/staccDOTsol/tornado-pool-factory
+
 https://github.com/all-forks/tornado-pool-relayer
 
 https://github.com/all-forks/tornado-cli
