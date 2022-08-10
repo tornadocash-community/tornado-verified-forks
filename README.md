@@ -55,5 +55,11 @@ https://github.com/all-forks/tornado-nova
 
 https://github.com/Sherpa-Cash/tornado-anonymity-mining
 
+https://github.com/bridgecrew-perf6/tornado-deploy
+
+https://github.com/Sadrsys/tornado-root-updater
+
+https://github.com/dulumao/deployer
+
 
 All forked repos are even with upstream repos (verified by github) though upstream repos are no longer visible.
