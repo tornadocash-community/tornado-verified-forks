@@ -17,6 +17,10 @@ https://github.com/staccDOTsol/rpc-nodes
 
 https://github.com/staccDOTsol/phase2-wasm
 
+https://github.com/staccDOTsol/trusted-setup-server
+
+https://github.com/staccDOTsol/fixed-merkle-tree
+
 https://github.com/all-forks/tornado-pool-relayer
 
 https://github.com/all-forks/tornado-cli
