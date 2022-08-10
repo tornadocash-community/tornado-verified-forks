@@ -11,6 +11,8 @@ https://github.com/staccDOTsol/docs
 
 https://github.com/staccDOTsol/tornado-pool-factory
 
+https://github.com/staccDOTsol/tornado-governance
+
 https://github.com/all-forks/tornado-pool-relayer
 
 https://github.com/all-forks/tornado-cli
