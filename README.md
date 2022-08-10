@@ -37,6 +37,12 @@ https://github.com/staccDOTsol/circomlibjs
 
 https://github.com/staccDOTsol/tornado-subgraph
 
+https://github.com/staccDOTsol/tornado-trees
+
+https://github.com/staccDOTsol/tornado-relayer-registry-subgraph
+
+https://github.com/staccDOTsol/tornado-aggregator
+
 https://github.com/all-forks/tornado-pool-relayer
 
 https://github.com/all-forks/tornado-cli
