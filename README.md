@@ -25,6 +25,18 @@ https://github.com/staccDOTsol/tx-manager
 
 https://github.com/staccDOTsol/torn-token
 
+https://github.com/staccDOTsol/tornado-pool-subgraph
+
+https://github.com/staccDOTsol/ip-echo
+
+https://github.com/staccDOTsol/websnark
+
+https://github.com/staccDOTsol/snarkjs
+
+https://github.com/staccDOTsol/circomlibjs
+
+https://github.com/staccDOTsol/tornado-subgraph
+
 https://github.com/all-forks/tornado-pool-relayer
 
 https://github.com/all-forks/tornado-cli
