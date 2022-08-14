@@ -77,6 +77,16 @@ https://github.com/Sadrsys/phase2-bn254
 
 https://github.com/Sadrsys/relayers-contest
 
+https://github.com/Sadrsys/mining-proposal
+
+https://github.com/Sadrsys/openzeppelin-contracts
+
+https://github.com/Sadrsys/governance-notifier
+
+https://github.com/Sadrsys/tornado-initiation-ui
+
+https://github.com/Sadrsys/provider
+
 https://github.com/dulumao/deployer
 
 
