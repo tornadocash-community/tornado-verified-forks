@@ -53,8 +53,6 @@ https://github.com/all-forks/tornado-relayer
 
 https://github.com/all-forks/tornado-nova
 
-https://github.com/Sherpa-Cash/tornado-anonymity-mining
-
 https://github.com/bridgecrew-perf6/tornado-deploy
 
 https://github.com/Sadrsys/tornado-root-updater
