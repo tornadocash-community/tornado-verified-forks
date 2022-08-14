@@ -59,6 +59,24 @@ https://github.com/bridgecrew-perf6/tornado-deploy
 
 https://github.com/Sadrsys/tornado-root-updater
 
+https://github.com/Sadrsys/airdrop
+
+https://github.com/Sadrsys/tornado-trees-proposal
+
+https://github.com/Sadrsys/circomlib
+
+https://github.com/Sadrsys/landing-subgraph
+
+https://github.com/Sadrsys/relayer-registry
+
+https://github.com/Sadrsys/tornado-anonymity-mining
+
+https://github.com/Sadrsys/tornado-onion
+
+https://github.com/Sadrsys/phase2-bn254
+
+https://github.com/Sadrsys/relayers-contest
+
 https://github.com/dulumao/deployer
 
 
