@@ -85,6 +85,8 @@ https://github.com/Sadrsys/tornado-initiation-ui
 
 https://github.com/Sadrsys/provider
 
+https://github.com/Sadrsys/tornado-testnet-setup
+
 https://github.com/dulumao/deployer
 
 
