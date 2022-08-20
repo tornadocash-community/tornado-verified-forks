@@ -29,7 +29,9 @@ https://github.com/staccDOTsol/tornado-pool-subgraph
 
 https://github.com/staccDOTsol/ip-echo
 
-https://github.com/staccDOTsol/websnark
+https://github.com/staccDOTsol/websnark   
+
+(please try https://github.com/staccDOTsol/websnark/commit/4c0af6a8b65aabea3c09f377f63c44e7a58afa6d if you are looking for commit 4c0af6a8b65aabea3c09f377f63c44e7a58afa6d, the one referenced by tornado-classic-ui)
 
 https://github.com/staccDOTsol/snarkjs
 
