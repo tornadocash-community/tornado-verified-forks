@@ -1,6 +1,8 @@
 # tornado-verified-forks
 List of verified forks from tornadocash official repos
 
+https://github.com/ytrezq/tornado-classic-ui
+
 https://github.com/staccDOTsol/tornado-classic-ui
 
 https://github.com/staccDOTsol/ui-minified
